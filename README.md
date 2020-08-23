@@ -1,4 +1,5 @@
-# **_Alexis Gonzalez_**
+# **_Hola yo soy Alexis González_** 😄
+*Soy Ingeniero en Informatica, egresado de la Universidad Nacional Experimental "Romulo Gallegos" en el año 2016, Mi carrera me llevo a conocer el mundo de la programacion web, la cual cautivo mi atencion y hoy en dia me desenvuelvo como programadior PHP Laravel.*
 
 <!--
 **ADJGP/adjgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
