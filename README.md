@@ -1,16 +1,34 @@
-# **_Hola yo soy Alexis González_** 😄
-*Soy Ingeniero en Informatica, egresado de la Universidad Nacional Experimental "Romulo Gallegos" en el año 2016, mi carrera me llevo a conocer el mundo de la programacion web, la cual cautivo mi atencion y hoy en dia me desenvuelvo como programador PHP y Laravel.*
 
-## *Habilidades y Conocimientos* :mortar_board:
+¡Hola, soy Alexis Gonzalez!
+Un apasionado del desarrollo web con 6 años de experiencia
 
-  :white_check_mark: HTML5
-  :white_check_mark: CSS3  :white_check_mark: PHP
-  :white_check_mark: LARAVEL
-  :white_check_mark: JAVASCRIPTS
-  :white_check_mark: JQUERY
-  :white_check_mark: SQL
-  :white_check_mark: MYSQL
-  :white_check_mark: GIT
+Me encanta crear plataformas web que sean intuitivas, atractivas y eficientes. He trabajado en proyectos para empresas nacionales e internacionales, ampliando mi conocimiento en:
+
+** Tecnologías:**
+
+HTML
+CSS
+JavaScript
+Bootstrap
+SQL
+MongoDB
+PHP
+Laravel
+Python
+Django
+⚙️ Administración de servidores:
+Linux
+
+** Siempre estoy dispuesto a aprender y afrontar nuevos retos.** Me apasiona compartir mi conocimiento con la comunidad tecnológica y contribuir a su crecimiento.
+
+** ¿Quieres trabajar juntos?**
+
+No dudes en contactarme para discutir tu proyecto. Estoy seguro de que podemos crear algo increíble juntos.
+
+Aquí te dejo algunos enlaces para que puedas conocer más sobre mi trabajo:
+
+LinkedIn: [https://www.linkedin.com/in/adjgp/]
+GitHub: [https://github.com/ADJGP]
 
 <!--
 **ADJGP/adjgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
