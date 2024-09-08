@@ -1,9 +1,9 @@
 
-# 👋 ¡Hola! Soy [Alexis González]
+# 👋 ¡Hola! Soy Alexis González
 
 ## Sobre mí
 
-👨‍💻 **Profesional**: Soy un apasionado/a [Desarrollador de software] con más de [6] años de experiencia en [Programacion]. Me dedico a [breve descripción de tus responsabilidades o logros profesionales]. Mi objetivo es seguir creciendo y aprendiendo en el campo de [Tu Campo Profesional].
+👨‍💻 **Profesional**: Soy un apasionado/a programador con más de 6 años de experiencia en desarrollo de software. Me dedico a investigar y aprender nuevas tecnologias de informacion; esto de la mano de mi aporte de valor en equipos multidiciplinarios de desarrollo de software de los cuales he formado parte. Mi objetivo es seguir creciendo y aprendiendo en el campo de la programacion fullstack.
 
 👨‍👩‍👧‍👦 **Familia**: Más allá de mi vida profesional, soy una persona que valora profundamente a mi familia. Creo que el equilibrio entre el trabajo y la vida personal es esencial para el bienestar y el éxito. Mi familia es mi mayor fuente de inspiración y apoyo.
 
@@ -11,9 +11,9 @@
 
 ## Contacto
 
-📫 **Email**: [Tu Email]  
-🌐 **LinkedIn**: [Tu Perfil de LinkedIn]  
-🐦 **Twitter**: [Tu Perfil de Twitter]
+📫 **Email**: gonzalezalexis034@gmail.com 
+🌐 **LinkedIn**: https://www.linkedin.com/in/adjgp/  
+🐦 **Twitter**: @alexis_adjgp
 
 <!--
 **ADJGP/adjgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
