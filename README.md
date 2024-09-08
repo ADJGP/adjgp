@@ -1,9 +1,9 @@
 
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy [Alexis González]
 
 ## Sobre mí
 
-👨‍💻 **Profesional**: Soy un apasionado/a [Tu Profesión] con más de [X] años de experiencia en [Tu Especialidad]. Me dedico a [breve descripción de tus responsabilidades o logros profesionales]. Mi objetivo es seguir creciendo y aprendiendo en el campo de [Tu Campo Profesional].
+👨‍💻 **Profesional**: Soy un apasionado/a [Desarrollador de software] con más de [6] años de experiencia en [Programacion]. Me dedico a [breve descripción de tus responsabilidades o logros profesionales]. Mi objetivo es seguir creciendo y aprendiendo en el campo de [Tu Campo Profesional].
 
 👨‍👩‍👧‍👦 **Familia**: Más allá de mi vida profesional, soy una persona que valora profundamente a mi familia. Creo que el equilibrio entre el trabajo y la vida personal es esencial para el bienestar y el éxito. Mi familia es mi mayor fuente de inspiración y apoyo.
 
