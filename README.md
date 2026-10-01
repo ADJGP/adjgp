@@ -3,7 +3,7 @@
 
 ## Sobre mí
 
-👨‍💻 **Profesional**: Soy un apasionado/a programador con más de 6 años de experiencia en desarrollo de software. Me dedico a investigar y aprender nuevas tecnologias de informacion; esto de la mano de mi aporte de valor en equipos multidiciplinarios de desarrollo de software de los cuales he formado parte. Mi objetivo es seguir creciendo y aprendiendo en el campo de la programacion fullstack.
+👨‍💻 **Profesional**: Soy un apasionado/a programador con más de 9 años de experiencia en desarrollo de software. Me dedico a investigar y aprender nuevas tecnologias de informacion; esto de la mano de mi aporte de valor en equipos multidiciplinarios de desarrollo de software de los cuales he formado parte. Mi objetivo es seguir creciendo y aprendiendo en el campo de la programacion fullstack.
 
 👨‍👩‍👧‍👦 **Familia**: Más allá de mi vida profesional, soy una persona que valora profundamente a mi familia. Creo que el equilibrio entre el trabajo y la vida personal es esencial para el bienestar y el éxito. Mi familia es mi mayor fuente de inspiración y apoyo.
 
